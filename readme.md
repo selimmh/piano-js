@@ -3,7 +3,7 @@
 
 <!-- About -->
 ### About The Project
-Piano using web tools. Check it out [Here](#)
+Piano using web tools. Check it out [Here](https://selimmh.github.io/piano-js/)
 #
 
 ### Preview
